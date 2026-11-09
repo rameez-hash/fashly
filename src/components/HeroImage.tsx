@@ -13,7 +13,7 @@ export default function HeroImage({ fallback }: { fallback: string }) {
   return (
     <Image
       src={src}
-      alt="Fashly.co — Coming November 2026"
+      alt="Fashly.co — Coming January 2027"
       fill
       priority
       sizes="(max-width: 1024px) 90vw, 30rem"

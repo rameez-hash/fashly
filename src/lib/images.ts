@@ -43,7 +43,7 @@ export const img = {
   avatar4: base("1438761681033-6461ffad8d80", 200),
 };
 
-// Branded "fashly.co — 20 November 2026" assets saved in /public.
+// Branded "fashly.co — 20 January 2027" assets saved in /public.
 export const local = {
   heroPoster: "/hero-poster.jpg",
   heroBanner: "/some.png", // wide pink hero — model + live-shopping collage

@@ -7,7 +7,7 @@ type Ev = { icon: LucideIcon; title: string; date: string; tag: string; src: str
 const events: Ev[] = [
   { icon: CalendarDays, title: "Fashion Weeks", date: "Feb 12 – Mar 9, 2026", tag: "Global runway", src: local.showcaseRunway },
   { icon: Sparkles, title: "Exhibitions", date: "Aug 7, 2026", tag: "Showcase", src: local.eventHotel },
-  { icon: Rocket, title: "Designer Launches", date: "Nov 20, 2026", tag: "New drops", src: local.eventLuxury },
+  { icon: Rocket, title: "Designer Launches", date: "Jan 20, 2027", tag: "New drops", src: local.eventLuxury },
   { icon: Trophy, title: "Competitions", date: "Dec 4, 2026", tag: "Compete & win", src: local.designerBlack },
 ];
 

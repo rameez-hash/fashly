@@ -11,7 +11,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const title = unslugify(slug.join(" "));
   return {
     title: `${title} — Coming Soon`,
-    description: `${title} is launching soon on Fashly.co. Official launch: 20 November 2026.`,
+    description: `${title} is launching soon on Fashly.co. Official launch: 20 January 2027.`,
     robots: { index: false, follow: true },
   };
 }

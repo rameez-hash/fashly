@@ -1,7 +1,7 @@
 // Official launch date for Fashly.co
-export const LAUNCH_DATE = new Date("2026-11-20T00:00:00Z");
+export const LAUNCH_DATE = new Date("2027-01-20T00:00:00Z");
 
-export const LAUNCH_LABEL = "20 November 2026";
+export const LAUNCH_LABEL = "20 January 2027";
 
 export type Countdown = {
   days: number;
